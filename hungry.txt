@@ -1,1 +1,2 @@
-I am hungry
+If hungry then eat Samosa
+eat healthy
